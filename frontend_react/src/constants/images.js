@@ -1,4 +1,4 @@
-import email from '../assets/email.png';
+import email from '../assets/email.jpg';
 import mobile from '../assets/mobile.png';
 import api from '../assets/api.png';
 import cpp from '../assets/cpp.png';
@@ -9,6 +9,7 @@ import git from '../assets/git.png';
 import graphql from '../assets/graphql.png';
 import html from '../assets/html.png';
 import javascript from '../assets/javascript.png';
+import java from '../assets/java.png'
 import mu5 from '../assets/mu5.png';
 import node from '../assets/node.png';
 import python from '../assets/python.png';
@@ -23,7 +24,7 @@ import about02 from '../assets/about02.png';
 import about03 from '../assets/about03.png';
 import about04 from '../assets/about04.png';
 
-import profile from '../assets/profile.png';
+import profile from '../assets/javier_photo_profile.png';
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
 
@@ -46,6 +47,7 @@ export default {
   git,
   graphql,
   html,
+  java,
   javascript,
   mu5,
   node,
